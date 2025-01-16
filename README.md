@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋! My name is Vibhuti Gupta and I'm a Full Stack Developer from New Delhi, India. I'm currently a final year student pursuing B.Tech in Computer Science & Engineeing.</h2>
+<h2 align="left">Hey 👋 My name is Vibhuti Gupta and I'm a Full Stack Developer from New Delhi, India. I'm currently a final year student pursuing B.Tech in Computer Science & Engineeing.</h2>
 
 ###
 
